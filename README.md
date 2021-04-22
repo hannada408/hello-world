@@ -2,11 +2,9 @@
 my first repository
 
 <<<<<<< HEAD
-dowolna linijka
+My name is Hania
 =======
-Sample text
+Test one - The guide tutorial
 
-Sample text Sample text Sample text
-
-Nowa linijka
+Test two - The GitHubDesktop
 >>>>>>> 23ad94be4b09261d0f1b8431ba1e77510e2018f4
